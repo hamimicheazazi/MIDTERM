@@ -1,0 +1,23 @@
+<p>
+    <label>State</label>
+            <input class="w3-input w3-border w3-round" name="state" id="idstate" type="text" required>
+    </p>
+   
+    <p>
+    <label>Area</label>
+            <input class="w3-input w3-border w3-round" name="area" id="idarea" type="text" required>
+    </p>
+
+    <p>
+    <label>Date created</label>
+            <input class="w3-input w3-border w3-round" name="DateCreated" id="iddate" type="text" required>
+    </p>
+
+    <p>
+    <label>Latitude</label>
+            <input class="w3-input w3-border w3-round" name="latitude" id="idlatitude" type="text" required>
+    </p>
+
+    <p>
+    <label>Longitude</label>
+            <input class="w3-input w3-border w3-round" name="longitude" id="idlongitude" type="text" required>
